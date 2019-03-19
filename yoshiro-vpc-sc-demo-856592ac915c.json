@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yoshiro-vpc-sc-demo",
+  "private_key_id": "856592ac915c5b81fa1ff2f0679ee90d8a20fb52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtuEn7CQIaBos5\nfJbWl2uwsPzYKt2FxlvN5WwY1WiZBi7CT0dTB+w1KgHhqD8vYmvTwB7zKLtWaIE2\nedjFN3VEPyzVFAUiOfqqD6dlBijBa3OrLcnLhQx9sy3mU6cN3Igs0xDbk+IsMnbI\nSoN05xVXaQH5uWW79GE0WQ8RMeouSqrDANDRWyqrqbOjSY/VPv3rfQCTqvYsaPFQ\n+c62D7BOnaHudMxtnhLiCwGIVGv4fRhKWFMUMsaRHpDU+lc0psUpvhocvhKpUSNU\nQB1fvz7pCOsWiwESVmPvBzCm/e1LbkALT/+AwsP7WHfmHETzMHlG4qCtK5EqPMe2\nnHnzBGwLAgMBAAECggEADd2N3hZaehb39CHVwjv6EZ4Wwu7XmS6mCNmHwWBV2xI2\nF4vkrqO3voiN945fuK77hJOq2g/wCpYIa3+EhefcGWiMx1cJOobz0wYGf4GN2DOf\nhalVGBmUT9DGLZeTV6pjSLycoFdTL+GOlIRKA2x8ShVCCJtmcNQxEVC4a1AXbRP7\nz4XLWSzZy6u/RO0cc2lxcWR/VV1fIanfl44vtrXNgpuKx7vmhkNA4omifP51A/PV\n+C0KR+gBWH9Dlb52BMdju9Sym2GMuBHtAe3z8hyTkyZurxxFSYpNSQxHQYG56ujA\nVhxIW38ohEvsB7aoMinAk42vdJp1Y82n6thoZ31f8QKBgQDlBPOVY8KV6nJlziry\noNibZ4vC8DqUAd2BUz2jjxlhw960pPCZ2568uJ67c1RZjWrWnmrj2JszEWFHpslF\nmXkpUEX+GRXOtwla0H+KPu/dS4IKKeasOY+cCltvjdHpHolw8q35h6sqbhsviLUw\nP0fATUNIXQrKlnM1uOv/X5gD2wKBgQDCL4xDg1DeRUWdKjNSbB+88O+ZLiztXib7\nimBqkWQJf9Zwr/Cvp4iyh/NhkGPrHX/nT3ZCFnTn31bl7bXQvXDo3O5WKwv6GO2f\nbY9D2XQhcXKHBs+f11YnEt4hxDhaYKgPy1VmeFyEAPZePBK4S6Kzi0Xp7gGiLVo+\nf4/OkjHHkQKBgF44BUZGfn1SsLG1efHLvpFgrh0K2+6cPdbAujEZ5CVWgb7rxJhn\nxAx8H8Galu8owPV+wxbtvBvsYIsr0M4zb6dRgRoik9gxcUXNVUs4zVHLiLpJtr7Q\nB4b4s9lXDS7NA1pWXMC10fNozQJnSbOJtSkmIDIbJR9negp2A5FScKXVAoGAH2qn\n68hUDhHxCFNqiDw8CkqEySiiVij0b5/cp4EsSSkonYSpkRGu2QuLwc4ljEVyiw7d\nGCYf9d+5ZGvIDaSInvQXj1NZlbXww+lq01RcKIj9OYFNmBOzuZCg5Z+kamLW7e88\nut5gQW8SbP6VHMIH6bpvrkA2fXGO9yuWLZqTeTECgYAtMJPhQqv50Jt/iP0dfsae\nQNuOWIhk7H3S2+h2fTyPHPebhWlVHrnMhHAzhUdbDJfWcVACc6g5xdxlIbBu7igS\ndetfR3n3hXtOIG1YD2A+o/XRgKRU8OkGpZr4GQo0Z/z6lS0lrEP8GYQ4tZHRdvQP\nqf8PXUZI7P7lFIJeWGST2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "very-secret-service-account@yoshiro-vpc-sc-demo.iam.gserviceaccount.com",
+  "client_id": "104742900812054501074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/very-secret-service-account%40yoshiro-vpc-sc-demo.iam.gserviceaccount.com"
+}
